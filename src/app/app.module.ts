@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -24,6 +23,7 @@ import { CheckoutComponent } from './views/checkout/checkout.component';
 import { HttpClientModule } from '@angular/common/http';
 import { SelectButtonComponent } from './components/template/select-button/select-button.component';
 import { CardFilmComponent } from './components/template/card-film/card-film.component';
+import { AboutComponent } from './views/about/about.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +36,7 @@ import { CardFilmComponent } from './components/template/card-film/card-film.com
     CheckoutComponent,
     SelectButtonComponent,
     CardFilmComponent,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,
