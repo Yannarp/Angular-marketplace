@@ -1,3 +1,5 @@
+# Projeto Lab-Dio  <img align="center" alt="Yan-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+
 # AngularMarketplace
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
